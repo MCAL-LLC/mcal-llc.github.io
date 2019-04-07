@@ -1,0 +1,20 @@
+{
+  "name" : "CustomItem",
+  
+  "package_name" : "com.mcal.customitem",
+  
+  "author" : "Тимашков Иван",
+  
+  "native_libs_info" :
+  [
+    "libcustom_item.so"
+  ],
+    
+  "version_code" : 1,
+  
+  "version_name" : "1.0",
+  
+  "description" : "description",
+  
+  "change_log" : "change_log."
+}
