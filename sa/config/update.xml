@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-	<version_code>800</version_code>
-	<version_name>8.0.0</version_name>
-	<release_notes>Добавлены быстрые настройки при запуске</release_notes>
+	<version_code>1111</version_code>
+	<version_name>11.1.1</version_name>
+	<release_notes>Исправлены ошибки, уроки перенесены на новый сервер</release_notes>
 	<download_link>market://details?id=com.startandroid</download_link>
 </update>
